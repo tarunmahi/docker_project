@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1690447931,,"wq"
+|2,0,1690449510,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,24 @@
 # Registers:
 
 # File marks:
-'0  5  46  ~/Dockerfile
-|4,48,5,46,1690447931,"~/Dockerfile"
-'1  130  14  ~/index.html
-|4,49,130,14,1690447872,"~/index.html"
-'2  6  31  ~/jenkins.sh
-|4,50,6,31,1690447476,"~/jenkins.sh"
+'0  130  7  ~/index.html
+|4,48,130,7,1690449510,"~/index.html"
+'1  5  46  ~/Dockerfile
+|4,49,5,46,1690447931,"~/Dockerfile"
+'2  130  14  ~/index.html
+|4,50,130,14,1690447872,"~/index.html"
+'3  6  31  ~/jenkins.sh
+|4,51,6,31,1690447476,"~/jenkins.sh"
 
 # Jumplist (newest first):
+-'  130  7  ~/index.html
+|4,39,130,7,1690449510,"~/index.html"
 -'  5  46  ~/Dockerfile
 |4,39,5,46,1690447931,"~/Dockerfile"
+-'  5  46  ~/Dockerfile
+|4,39,5,46,1690447931,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1690447908,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1690447908,"~/Dockerfile"
 -'  130  14  ~/index.html
@@ -45,6 +53,8 @@
 |4,39,1,0,1690447838,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1690447838,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1690447838,"~/index.html"
 -'  6  31  ~/jenkins.sh
 |4,39,6,31,1690447476,"~/jenkins.sh"
 -'  6  31  ~/jenkins.sh
@@ -53,6 +63,22 @@
 |4,39,6,31,1690447476,"~/jenkins.sh"
 -'  6  31  ~/jenkins.sh
 |4,39,6,31,1690447476,"~/jenkins.sh"
+-'  6  31  ~/jenkins.sh
+|4,39,6,31,1690447476,"~/jenkins.sh"
+-'  6  31  ~/jenkins.sh
+|4,39,6,31,1690447476,"~/jenkins.sh"
+-'  6  31  ~/jenkins.sh
+|4,39,6,31,1690447476,"~/jenkins.sh"
+-'  6  31  ~/jenkins.sh
+|4,39,6,31,1690447476,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1690447470,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1690447470,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1690447470,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1690447470,"~/jenkins.sh"
 -'  1  0  ~/jenkins.sh
 |4,39,1,0,1690447470,"~/jenkins.sh"
 -'  1  0  ~/jenkins.sh
@@ -64,20 +90,20 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/index.html
+	*	1690449509	0
+	"	130	7
+	^	130	8
+	.	130	7
+	+	175	6
+	+	130	7
+
 > ~/Dockerfile
 	*	1690447930	0
 	"	5	46
 	^	5	47
 	.	5	46
 	+	5	46
-
-> ~/index.html
-	*	1690447870	0
-	"	130	14
-	^	130	15
-	.	130	14
-	+	175	6
-	+	130	14
 
 > ~/jenkins.sh
 	*	1690447475	0
